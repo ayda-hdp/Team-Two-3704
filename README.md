@@ -8,6 +8,8 @@ Team Members
 
 
 Project Description
+
+
 The Kanban Issue Tracking Bot is a collaborative tool designed to enhance productivity and streamline the workflow of software development teams. By automating task assignments within the Kanban methodology, this tool addresses inefficiencies in traditional task management systems.
 
 The bot evaluates factors such as team hierarchy, developer skill sets, and workload distribution to assign tasks equitably and efficiently. This not only reduces bottlenecks and administrative burdens but also empowers software engineers to focus on their core responsibilities. The Kanban Issue Bot is particularly valuable in Agile environments, where adaptability and flexibility are critical for success.
