@@ -1,4 +1,4 @@
-Kanban Issue Tracking Bot
+**Kanban Issue Tracking Bot
 
 Team Members
 1. Samantha Austin, Computer Science, Virginia Tech, Blacksburg, VA, USA – samanthaaustin@vt.edu
